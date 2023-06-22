@@ -1,6 +1,6 @@
 <!-- HEADER START -->
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F99F8,100:374874&height=250&section=header&text=Industry%20Cooperation&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F99F8,100:374874&height=250&width=100%&section=header&text=Industry%20Cooperation&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
 </a></p>
 <!-- HEADER END -->
 
@@ -18,11 +18,9 @@
 <a href="https://github.com/YAIxPOZAlabs/Improving-TrXL-for-ComMU.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=Improving-TrXL-for-ComMU&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,634FE1,416CB3&" alt="YAIxPOZAlabs/Improving-TrXL-for-ComMU" />
 </a>
-</p>
-
-<p align="center">
+    
 <a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=MuseDiffusion&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,634FE1,416CB3&" alt="YAIxPOZAlabs/MuseDiffusion" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=MuseDiffusion&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,416CB3,634FE1&" alt="YAIxPOZAlabs/MuseDiffusion" />
 </a>
 </p>
 
@@ -42,10 +40,10 @@
 <p align="center">
 <a href="https://github.com/minsu1206/BlurFaceDetection.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=BlurFaceDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,00BEFF,005BAF&" alt="minsu1206/BlurFaceDetection" />
-</p>
-<p align="center">
+</a>
 <a href="https://github.com/YAI-alcheragan/YAI-alcheraGAN.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=0,00BEFF,005BAF&" alt="YAI-alcheragan/YAI-alcheraGAN" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=0,005BAF,00BEFF&" alt="YAI-alcheragan/YAI-alcheraGAN" />
+</a>
 </p>
 
 
@@ -63,19 +61,15 @@
 <a href="https://github.com/minsu1206/OCRdistill.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=OCRdistill&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,FFBF8B,F27500&" alt="minsu1206/OCRdistill" />
 </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/YAI-Project/OCR_Transformer.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-Project&repo=OCR_Transformer&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,FFBF8B,F27500&" alt="YAI-Project/OCR_Transformer" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-Project&repo=OCR_Transformer&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F27500,FFBF8B&" alt="YAI-Project/OCR_Transformer" />
 </a>
 </p>
 
 
 
-
 <!-- FOOTER START -->
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F99F8,100:374874&height=150&section=footer&animation=fadeIn&fontAlignY=40" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F99F8,100:374874&height=150&width=100%&section=footer&animation=fadeIn&fontAlignY=40" alt="header" />
 </a></p>
 <!-- FOOTER END -->
