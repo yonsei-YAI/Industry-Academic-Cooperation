@@ -12,7 +12,8 @@
 <b> POZAlabs </b>
 </a>
 </p>
-
+ 
+*Developing an NLP model to generate MIDI samples suitable for meta data, and a diffusion model to correct incorrectly generated MIDI data*
 <p align="center">
 <a href="https://github.com/YAIxPOZAlabs/Improving-TrXL-for-ComMU.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=Improving-TrXL-for-ComMU&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,634FE1,416CB3&" alt="YAIxPOZAlabs/Improving-TrXL-for-ComMU" />
@@ -34,6 +35,8 @@
 <b> Alchera </b>
 </a>
 </p>
+
+*Suggesting New method to create blurred face dataset and develop models which predict blur degree of face for face recognition in real-time setting, and Generating synthetic wildfire images to address the challenges of obtaining imbalanced and scarce wildfire image datasets.*
 
 <p align="center">
 <a href="https://github.com/minsu1206/BlurFaceDetection.git">
