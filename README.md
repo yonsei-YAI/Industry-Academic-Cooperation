@@ -26,6 +26,7 @@
 </a>
 </p>
 
+---
 
 <h3 align="center">YAI 10th (summer, 2022)</h3>
 
@@ -47,7 +48,9 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=0,00BEFF,005BAF&" alt="YAI-alcheragan/YAI-alcheraGAN" />
 </p>
 
-  
+
+---
+
 <h3 align="center">YAI 9th (winter, 2022) </h3>
 <p align="center">  
 @ 
