@@ -57,14 +57,14 @@
 </a>
 </p>
 
-*Applying knowledge distillation methods from object detection to text detection, and designing an end-to-end model based on Transformers*
+*Applying knowledge distillation methods from object detection to text detection, and developing an end-to-end OCR model based on Vision Transformers*
 
 <p align="center">
 <a href="https://github.com/minsu1206/OCRdistill.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=OCRdistill&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,FFBF8B,F27500&" alt="minsu1206/OCRdistill" />
 </a>
 <a href="https://github.com/YAI-Project/OCR_Transformer.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-Project&repo=OCR_Transformer&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F27500,FFBF8B&" alt="YAI-Project/OCR_Transformer" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-Project&repo=OCR_Transformer&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F27500,FFBF8B&cache_seconds=1200" alt="YAI-Project/OCR_Transformer" />
 </a>
 </p>
 
