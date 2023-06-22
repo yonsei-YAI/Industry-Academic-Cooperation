@@ -57,6 +57,8 @@
 </a>
 </p>
 
+*Applying knowledge distillation methods from object detection to text detection, and designing an end-to-end model based on Transformers*
+
 <p align="center">
 <a href="https://github.com/minsu1206/OCRdistill.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=OCRdistill&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,FFBF8B,F27500&" alt="minsu1206/OCRdistill" />
