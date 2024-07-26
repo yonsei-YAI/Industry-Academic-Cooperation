@@ -34,10 +34,11 @@
     <img src="https://img.shields.io/badge/Paper-Arxiv-red" alt="arxiv" />
 </a>
     
-<a href="" title="">
+<a href="https://arxiv.org/pdf/2405.16155" title="Improving Multi-lingual Alignment Through Soft Contrastive Learning">
     <img src="https://img.shields.io/badge/Paper-Arxiv-red" alt="arxiv" />
 </a>
-<a href="" title="">
+<a href="https://arxiv.org/pdf/2402.17097" title="RE-EX : REVISING AFTER EXPLANATION REDUCES
+THE FACTUAL ERRORS IN LLM RESPONSES">
     <img src="https://img.shields.io/badge/Paper-Arxiv-red" alt="arxiv" />
 </a>
 
