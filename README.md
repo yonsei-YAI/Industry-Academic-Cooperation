@@ -4,6 +4,41 @@
 </a></p>
 <!-- HEADER END -->
 
+<h3 align="center">YAI 13th (2024)</h3>
+
+<p align="center">  
+@ 
+<a href = https://www.aipark.ai/>
+<b> AIPARK </b>
+</a>
+</p>
+ 
+*Conducting a Face Similarity project*
+
+---
+
+<h3 align="center">YAI 12th (2023)</h3>
+
+<p align="center">  
+@ 
+<a href = https://www.wecoverai.com/>
+<b> wecover </b>
+</a>
+</p>
+ 
+*Conducting research and writing papers related to Large Language Models (LLMs)*
+
+<p align="center">  
+@ 
+<a href = https://rebuilderai.com/>
+<b> RebuilderAI </b>
+</a>
+</p>
+ 
+*Developing Image-based 3D object retrieval models, background removal, and generation model*
+
+---
+
 <h3 align="center">YAI 11th (winter, 2023)</h3>
 
 <p align="center">  
