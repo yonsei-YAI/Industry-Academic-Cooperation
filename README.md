@@ -28,6 +28,21 @@
  
 *Conducting research and writing papers related to Large Language Models (LLMs)*
 
+<p align="center">
+    
+<a href="https://arxiv.org/pdf/2402.10645" title="Can Separators Improve Chain-of-Thought Prompting?">
+    <img src="https://img.shields.io/badge/Paper-Arxiv-red" alt="arxiv" />
+</a>
+    
+<a href="" title="">
+    <img src="https://img.shields.io/badge/Paper-Arxiv-red" alt="arxiv" />
+</a>
+<a href="" title="">
+    <img src="https://img.shields.io/badge/Paper-Arxiv-red" alt="arxiv" />
+</a>
+
+</p>
+
 <p align="center">  
 @ 
 <a href = https://rebuilderai.com/>
