@@ -9,8 +9,9 @@
 <p align="center">  
 @ 
 <a href = https://www.aipark.ai/>
-<b> AIPARK </b>
 </a>
+<b> AIPARK </b>
+
 *Conducting a Face Similarity project*
 <a href="https://github.com/jmjmfasdf/face-similarity.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jmjmfasdf&repo=face-similarity&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=aaff55" alt="YAIxAIPRARK/face-similarity" />
