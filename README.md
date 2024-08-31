@@ -15,7 +15,6 @@
 
 *Conducting a Face Similarity project*
 
----
 
 <p align="center"> 
 <a href="https://github.com/jmjmfasdf/face-similarity.git">
