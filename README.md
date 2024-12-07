@@ -4,6 +4,26 @@
 </a></p>
 <!-- HEADER END -->
 
+<h3 align="center">YAI 14th (2024)</h3>
+
+<p align="center">  
+@ 
+<a href = https://www.prevenotics.com/>
+<b> PREVENOTICS </b>
+</a>
+</p>
+
+*Presonalized EGD report generation*
+
+
+<p align="center"> 
+<a href="https://github.com/jmjmfasdf/YAI-X-Prevenotics.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jmjmfasdf&repo=YAI-X-Prevenotics&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=aaff55" alt="YAIxPREVENOTICS/EGD report generation" />
+</a>
+</p>
+
+---
+
 <h3 align="center">YAI 13th (2024)</h3>
 
 <p align="center">  
