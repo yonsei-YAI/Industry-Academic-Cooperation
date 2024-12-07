@@ -18,7 +18,7 @@
 
 <p align="center"> 
 <a href="https://github.com/jmjmfasdf/YAI-X-Prevenotics.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jmjmfasdf&repo=YAI-X-Prevenotics&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=6cafca" alt="YAIxPREVENOTICS/EGD report generation" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jmjmfasdf&repo=YAI-X-Prevenotics&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=6cafca" alt="jmjmfasdf/YAI-X-Prevenotics" />
 </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center"> 
 <a href="https://github.com/jmjmfasdf/face-similarity.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jmjmfasdf&repo=face-similarity&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=70d156" alt="YAIxAIPRARK/face-similarity" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jmjmfasdf&repo=face-similarity&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=70d156" alt="jmjmfasdf/face-similarity" />
 </a>
 </p>
 
